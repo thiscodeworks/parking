@@ -13,28 +13,28 @@
   
         <div class="mt-8">
           <h2 class="text-lg font-semibold text-gray-800 dark:text-gray-200">
-            What can I expect?
+            Jak probíhá prodej?
           </h2>
   
           <ul class="mt-2 space-y-2">
             <li class="flex space-x-3">
               <svg class="flex-shrink-0 mt-0.5 h-5 w-5 text-gray-600 dark:text-gray-400" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
               <span class="text-gray-600 dark:text-gray-400">
-                Industry-leading design
+                Domluva o ceně
               </span>
             </li>
   
             <li class="flex space-x-3">
               <svg class="flex-shrink-0 mt-0.5 h-5 w-5 text-gray-600 dark:text-gray-400" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
               <span class="text-gray-600 dark:text-gray-400">
-                Developer community support
+                Podepsání smlouvy
               </span>
             </li>
   
             <li class="flex space-x-3">
               <svg class="flex-shrink-0 mt-0.5 h-5 w-5 text-gray-600 dark:text-gray-400" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg>
               <span class="text-gray-600 dark:text-gray-400">
-                Simple and affordable
+                Převod domény do vašeho vlastnictví
               </span>
             </li>
           </ul>
