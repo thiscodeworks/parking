@@ -7,7 +7,7 @@
     domain = window.location.hostname;
     domain = domain.replace("www.","");
   }
-  domain = "tomasjanecek.cz";
+
 </script>
 
 <!-- Hire Us -->
