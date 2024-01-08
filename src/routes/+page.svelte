@@ -7,14 +7,15 @@
     domain = window.location.hostname;
     domain = domain.replace("www.","");
   }
+  domain = "tomasjanecek.cz";
 </script>
 
 <!-- Hire Us -->
 <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
     <!-- Grid -->
-    <div class="grid md:grid-cols-2 gap-12">
-      <div>
-        <h1 class="text-3xl font-bold text-gray-800 sm:text-4xl lg:text-5xl lg:leading-tight dark:text-white">
+    <div class="grid md:grid-cols-3 gap-12">
+      <div class="lg:col-span-2">
+        <h1 class="text-3xl font-bold text-gray-800 sm:text-2xl lg:text-4xl lg:leading-tight dark:text-white">
           <strong>{domain}</strong> je na prodej
         </h1>
         <p class="mt-1 md:text-lg text-gray-800 dark:text-gray-200">
@@ -23,11 +24,11 @@
 
         <div class="bg-gradient-to-tl from-orange-500 to-yellow-300 mt-7 mb-7 rounded-2xl">
           <div class="text-center p-20">
-            <span class="block text-7xl font-bold text-gray-800 dark:text-white">{domain}</span>
+            <span class="block text-5xl font-bold text-gray-800 dark:text-white">{domain}</span>
           </div>
         </div>
   
-        <div class="max-w-2xl mx-auto">
+        <div class="">
           <!-- Accordion -->
           <div class="hs-accordion-group">
             <div class="hs-accordion hs-accordion-active:bg-gray-100 rounded-xl p-6 dark:hs-accordion-active:bg-white/[.05] active" id="hs-basic-with-title-and-arrow-stretched-heading-one">
