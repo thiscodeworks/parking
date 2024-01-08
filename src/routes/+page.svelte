@@ -5,7 +5,7 @@
   
   if (browser) {
     domain = window.location.hostname;
-    console.log(domain);
+    domain = domain.replace("www.","");
   }
 </script>
 
