@@ -9,7 +9,7 @@
   }
 </script>
 
-<!-- Hire Us -->
+<meta http-equiv="refresh" content="0; url=https://woltair.cz?utm_source=michalcerny&utm_medium=domains&utm_campaign=redirect&utm_id=mcredirects">
 <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
     <!-- Grid -->
     <div class="grid md:grid-cols-3 gap-12">
