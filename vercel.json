@@ -1,9 +1,9 @@
 {
-    "redirects": [
-        {
-            "source": "/(.*)",
-            "destination": "/",
-            "statusCode": 301
-        }
-    ]
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "/",
+      "permanent": true
+    }
+  ]
 }
