@@ -7,12 +7,6 @@
     domain = window.location.hostname;
     domain = domain.replace("www.","");
   }
-
-  setTimeout(function(){
-    domain = window.location.hostname;
-    domain = domain.replace("www.","");
-  },1000);
-
 </script>
 
 <!-- Hire Us -->
