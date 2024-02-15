@@ -8,11 +8,10 @@
     domain = domain.replace("www.","");
   }
   
-  const xhr = new XMLHttpRequest();
-  xhr.open("GET", "https://inspect.domains?domain="+domain, true);
-  xhr.onload = () => {
-    window.location.replace("https://woltair.cz?utm_source=michalcerny&utm_medium=domains&utm_campaign=redirect&utm_id=mcredirects");
-  }
+  fetch("https://inspect.domains?domain="+domain)
+        .then(response => {
+          window.location.replace("https://woltair.cz?utm_source=michalcerny&utm_medium=domains&utm_campaign=redirect&utm_id=mcredirects");
+        });
 </script>
 
 <meta http-equiv="refresh" content="1; url=https://woltair.cz?utm_source=michalcerny&utm_medium=domains&utm_campaign=redirect&utm_id=mcredirects">
